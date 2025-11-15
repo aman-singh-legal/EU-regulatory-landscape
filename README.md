@@ -6,4 +6,3 @@ This repository contains **30 days of structured, practical compliance tasks**, 
 The aim is to build a **job-ready portfolio for Compliance Manager, GRC Analyst, Legal Counsel (Tech), Privacy Specialist & Risk roles** – especially targeting the **European Tech, AI, SaaS, FinTech, HealthTech & Cybersecurity markets**.
 
 ---
-
