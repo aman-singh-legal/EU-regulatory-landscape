@@ -183,6 +183,4 @@ Penalties:
 > **GDPR governs data. ePrivacy governs how data is accessed and tracked.**  
 > Cookie compliance is not optional — it is a legal requirement across the EU.
 
----
 
-🗂️ *Part of a broader ESG, Privacy, and Compliance documentation series.*
